@@ -1,5 +1,3 @@
-# About
-About myself
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">I m front end web developer</h3>
 
